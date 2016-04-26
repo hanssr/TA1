@@ -1,0 +1,2 @@
+D:\GitHub\TA1\Hello\Hello\bin\Debug\Hello.exe.config
+D:\GitHub\Tarea1\Hello\Hello\bin\Debug\Hello.exe.config
